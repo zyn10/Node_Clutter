@@ -1,0 +1,13 @@
+app: backend logic
+resources: views 
+the tool we will use it will compile the 
+scss and app.js in resources folder and store in app.js present in public folder
+
+
+
+veiws ma sara html rahay ga
+routes : url 
+
+
+server js is the main file
+code yahan sa run hoga
